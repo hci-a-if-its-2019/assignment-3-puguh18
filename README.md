@@ -10,7 +10,7 @@ Papua.go.id is a web owned by Papua's goverment. It provides informations regard
 
 Click the picture below to see the video
 
-[![Prototype Video](https://i9.ytimg.com/vi/5itnLo8iGFY/hqdefault.jpg?sqp=CPCUqeYF&rs=AOn4CLAk9KaQS5ML2g4g42FoN5KgF8O5Og)](https://youtu.be/5itnLo8iGFY)
+[![Prototype Video](https://i.ytimg.com/vi/5itnLo8iGFY/hqdefault.jpg)](https://youtu.be/5itnLo8iGFY)
 ---
 
 ## Part A: Usability Evaluation
@@ -45,25 +45,51 @@ Click the picture below to see the video
 
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+- (**00:00**) **You**        : (Greetings)
+- (**00:01**) **Participant**: (Greetings)
+- (**00:03**) **You**        : (Menjelaskan bahwa saya membuat prototype dari web sebelumnya dan ingin partisipan mengujinya, dan tidak ada salah atau benar dalam proses berlangsung)
+- (**00:52**) **You**        : Berapa umur anda?
+- (**00:54**) **Participant**: 20
+- (**00:58**) **You**        : Pekerjaan anda?
+- (**01:00**) **Participant**: Mahasiswa ITS
+- (**01:15**) **You**        : Seberapa sering anda menggunakan internet?    
+- (**01:18**) **Participant**: Setiap hari, setiap waktu, setiap detik
+- (**01:22**) **You**        : Biasanya menggunakan internet untuk apa?
+- (**01:25**) **Participant**: Browsing, main game, youtube, dll
+- (**01:39**) **You** : Sebelumnya pernah memakai website pemerintah?
+- (**01:46**) **Participant**: Jarang jarang
+- (**02:13**) **You** : Coba kamu cari berita dengan kategori Trading
+- (**02:19**) **Participant** : (Mulai mengarahkan kursor ke ikon search) (ikon search sebenarnya tidak berfungsi)
+- (**02:22**) **Participant** : (Mulai meng-klik "news")
+- (**02:25**) **Participant** : (Meng-klik menu category)
+- (**02:26**) **Participant** : (Mencari kategori yang dimaksud pada kumpulan pilihan kategori)
+- (**02:31**) **Participant** : (Partisipan menemukan berita dengan kategor yang dimaksud)
+- (**02:43**) **You** : Coba kamu sekarang cari berita dengan kategori "agrikultural"
+- (**02:48**) **Participant** : (Partisipan memilih menu kategori dan memilih kategori yang dimaksud)
+- (**02:56**) **Participant** : (Partisipan menemukan berita dengan kategori yang dimaksud)
+- (**03:00**) **You** : Sekarang coba ke halaman utama
+- (**03:07**) **Participant** : (Partisipan menuju halaman utama dengan mudah)
+- (**03:19**) **You** : Overall bagaimana menurutmu?
+- (**03:22**) **Participant** : (Menjelaskan kalau secara menyeluruh bagus dan efisien dan mungkin bisa dipercantik dengan menambah ikon pada nama menu)
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ - (**00:00**) **You** : (Greetings)
+ - (**00:02**) **Participant**: (Greetings)
+ - (**00:04**) **You** : (Menjelaskan bahwa saya membuat desain prototype untuk sebuah web dan ingin partisipan untuk mengujinya, serta menjalskan bahwa tidak ada salah dan benar) 
+ - (**00:31**) **You** : Umurnya berapa?
+ - (**00:36**) **Participant** : 21
+ - (**00:37**) **You** : Pekerjaan anda?
+ - (**00:39**) **Participant** : Mahasiswi
+ - (**00:50**) **You** : Seberapa sering anda menggunakan internet?
+ - (**00:53**) **Participant** : Hampir setiap hari, hampir setiap saat kecuali saat tidur
+ - (**01:02**) **You** : Biasanya menggunakan internet untuk apa?
+ - (**01:04**) **Participant** : Buat nugas, chat, sosmed, nonton
+ - (**01:19**) **You** : Sebelumnya pernah mengunjungi/menggunakan website pemerintah?
+ - (**01:27**) **Participant** : Kalau memakai jarang, kalau mengunjungi pernah
+ - (**02:05**) **You** : Sekarang aku mau kamu coba cari berita dengan kategori "trading"
+ - (**00:36**) **Participant** :
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
