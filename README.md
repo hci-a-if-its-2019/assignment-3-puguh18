@@ -4,7 +4,7 @@
 - Human - Computer Interaction A
 
 # Usability Evaluation and Prototyping (again)
-Papua.go.id is a web owned by Papua's goverment. It provides informations regarding the region. From the profiles of its' goverments to administration stuff. From my observation, i spotted some weakness
+Papua.go.id is a web owned by Papua's goverment. It provides informations regarding the region. From the profiles of its' goverments to administration stuff. From my observation, i spotted some weakness. One of them is the news categorization.
 
 ## Operating the Prototype
 
