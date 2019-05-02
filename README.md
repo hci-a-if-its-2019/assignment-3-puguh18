@@ -1,45 +1,48 @@
+# Assignment - 3
+- Puguh Santosa D
+- 05111640000049
+- Human - Computer Interaction A
+
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
+Papua.go.id is a web owned by Papua's goverment. It provides informations regarding the region. From the profiles of its' goverments to administration stuff. From my observation, i spotted some weakness
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+Click the picture below to see the video
 
+[![Prototype Video](https://i9.ytimg.com/vi/5itnLo8iGFY/hqdefault.jpg?sqp=CPCUqeYF&rs=AOn4CLAk9KaQS5ML2g4g42FoN5KgF8O5Og)](https://youtu.be/5itnLo8iGFY)
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- Same Contextual Inquiry's Participant from the past
+- 20 Years
+- A physic student from ITS
+- Uses internet often (everyday, everytime)
+- Rarely visits goverment's website
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- 21 Years
+- An informatics students from ITS
+- Uses internet often (usually for chat, soscial media, streaming)
+- Seldom(ly) at visiting goverment's web
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+#### Questions
+- How old are you?
+- What is your profession?
+- How often for you at using the internet?
+- What you usually do with internet?
+- Have you ever visited/used goverment's web before?
+
+#### Intructions
+- Try to find news with category "Trading"
+- Try to find news with category "Agriculltural"
+- Go to main page
+
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
