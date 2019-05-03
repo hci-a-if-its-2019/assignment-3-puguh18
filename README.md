@@ -89,27 +89,33 @@ Click the picture below to see the video
  - (**01:19**) **You** : Sebelumnya pernah mengunjungi/menggunakan website pemerintah?
  - (**01:27**) **Participant** : Kalau memakai jarang, kalau mengunjungi pernah
  - (**02:05**) **You** : Sekarang aku mau kamu coba cari berita dengan kategori "trading"
- - (**00:36**) **Participant** :
+ - (**02:18**) **Participant** : (Partisipan mengeksplor dengan mudah tetapi saat hendak memilih kategori, ia meng-klik nama kategorinya padahal hanya ikon yang dapat diklik tetapi akhirnya menemukan beritanya)
+ - (**02:36**) **You** : Sekarang aku mau kamu coba cari berita dengan kategori "Agrikultural"
+ - (**02:40**) **Participant** : (Partisipan memilih menu kategori  serta meng-klik nama kategori lagi, bukan ikonnya. Tetapi dapat menemukan yang ia cari )
+ - (**02:53**) **You** : Sekarang coba kembali ke menu utama
+ - (**02:58**) **Participant** : (Partisipan kembal ke menu utama)
+ - (**03:05**) **You** : Menurut kamu secara overall gimana?
+ - (**03:10 - 03:38**) **Participant** : (Menjelaskan bahwa desainnya simple, font-nya enggak kekinian, merasa aneh jika menu news jika diklikk langsung menjadi category. Tidak ada tombol back)
 
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
 ![Prototype Screen 1](Img/1.Main.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Participant 2 (**03:10**), participant 1 (**03:22**)
+ - **Feedback**: neutral
+ - **Incidence**: -
+ - **Reason**: Font gak kekinian/kurang pas; menu ditambahi ikon
+ - **Resolution**: Change the font; not adding icon because it might overwhelms users
  
 #### OBSERVATION 2
 ![Prototype Screen 2](Img/2.News.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Participant 2 (**03:10**)
+ - **Feedback**: (neutral) agak aneh setelah news di-klik langsung jadi category
+ - **Incidence**: -
+ - **Reason**: - agak aneh setelah news di-klik langsung jadi category
+ - **Resolution**: Modifikasi menu news
  
 #### OBSERVATION 3
 ![Prototype Screen 3](Img/3.First.png)
@@ -118,7 +124,7 @@ Click the picture below to see the video
  - **Feedback**: 
  - **Incidence**: 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Resolution**: 
  
 #### OBSERVATION 4
 ![Prototype Screen 4](Img/4.Second.png)
@@ -127,25 +133,25 @@ Click the picture below to see the video
  - **Feedback**: 
  - **Incidence**: 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Resolution**: 
  
  #### OBSERVATION 5
 ![Prototype Screen 5](Img/5.Third.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**:  Participant 2 (**03:10**)
+ - **Feedback**: Buat tulisan juga dapat di-klik
+ - **Incidence**: -
+ - **Reason**: Beberapa orang terbiasa klik tulisan daripada gambar
+ - **Resolution**: Buat tulisan dapat di-klik
 
 #### OBSERVATION 6
 ![Prototype Screen 6](Img/6.TheNews.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**:  Participant 2 (**03:10**)
+ - **Feedback**: Kalau bisa ada tombol back
+ - **Incidence**: -
+ - **Reason**: Supaya bisa balik
+ - **Resolution**: Tambah tombol back
 
  ---
 
@@ -153,16 +159,13 @@ Click the picture below to see the video
 ## Part B: Prototyping (again)
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+
+![Sketch of Refined Prototype](Sketch.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
