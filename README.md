@@ -164,9 +164,8 @@ Click the picture below to see the video
 ![Sketch of Refined Prototype](Sketch.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+ What i've learned is that not all of the features that we provided can be accepted completely entirely by some users, so we should be absorbing all kind of opinion as possible
 
 ### High-Fidelity Interactive-Prototype
 
-![High Fidelity Prototype]https://invis.io/ZTRU5X842BV
+https://invis.io/ZTRU5X842BV
